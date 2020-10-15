@@ -1,4 +1,4 @@
-### Hi there 👋
+### 疯狂打码中 👋
 
 <!--
 **lsj9383/lsj9383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
